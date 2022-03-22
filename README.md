@@ -1,2 +1,2 @@
 # Learning git commands
-Remote exercise
+Remote exercise of Zhihang Shen
