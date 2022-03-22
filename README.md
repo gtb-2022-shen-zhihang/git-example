@@ -1,2 +1,2 @@
-# For learning git commands
-# Remote exercise
+# Learning git commands
+Remote exercise
